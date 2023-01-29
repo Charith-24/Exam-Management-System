@@ -1,9 +1,9 @@
 # Exam-Management-System
 
 Hello!
- Well, this is my first "python based project", a simple and a decent one. If you are looking for a sample ref. for your high school activity, then hope this helps.
+ Well, this is my first "python based project", a simple and a decent one.
 
-A school project where I've been asked to create a Python Program for Exam Management.It includes functions like storing the details of students from different sections and streams, generating Merit List for various streams and generating a Report Card for each and every students who has registered and more.
+My high-school project where I've been asked to create a Python Program 'Exam Management System' which works on functions like storing the details of students from different sections and streams, generating Merit List of various streams and generating Report Cards for each and every students who has registered and more.
 
 
 # Certain requirements:
